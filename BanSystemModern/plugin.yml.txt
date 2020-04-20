@@ -1,0 +1,5 @@
+name: BanSystemModer
+main: Gravitar19Cz/BanSystemModer/Main
+api: [4.0.0]
+version: 1.0
+author: Gravitar19Cz
